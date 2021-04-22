@@ -1,0 +1,28 @@
+.navbar{
+  background-color: #bdc7c9;
+
+}
+.row{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.bottom{
+  display: grid;
+  background-color: #bdc7c9;
+  grid-template-columns: 2fr 1.65fr 1fr;
+  padding-top: 20px;
+  padding-bottom: 30px;
+
+}
+.col1
+{
+  padding-left: 50px;
+}
+.btn{
+    background-color: #bdc7c9;
+    color:black;
+  padding: 10px 20px 10px 20px;
+  margin-left: 650px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
